@@ -16,7 +16,7 @@
 			<img src="images/logo.png" />
 			<h2>欢迎来到清华大学机场大巴在线订票系统</h2>
 
-			<p><div class="col-xs-6 col-sm-offset-3">
+			<p><div class="col-md-6 col-md-offset-3">
 				<a href="Route" class="btn btn-primary btn-lg" role="button">进入</a>
            		</div>
            	</p>
